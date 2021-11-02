@@ -52,7 +52,9 @@ a:hover {
   margin-top: 10px;
   margin-left: 20px;
 }
-
+.header ul li a {
+  color: rgb(51, 51, 51);
+}
 .header ul li a:hover {
   color: rgb(0, 138, 255);
 }
